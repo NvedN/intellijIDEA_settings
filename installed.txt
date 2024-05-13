@@ -1,0 +1,7 @@
+net.sf.opk.avro-schema-support
+org.ermadan.kafkalytic
+com.thvardhan.gradianto
+com.samdark.intellij-visual-studio-code-dark-plus
+google-java-format
+com.intellij.lang.jsgraphql
+org.mapstruct.intellij
